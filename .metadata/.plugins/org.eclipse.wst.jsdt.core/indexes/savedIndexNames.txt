@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+G:\treinament\JavaTutorialSeverFaces\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1898756853.index
+3155573624.index
+2762811467.index
+1597264567.index
+2467687319.index

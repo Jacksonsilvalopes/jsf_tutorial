@@ -1,0 +1,189 @@
+2021-08-10 02:47:27,558 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-10 21:24:05,135 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-18 00:59:12,734 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-08-18 01:32:11,004 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-04-04 11:33:19,019 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-04-23 00:53:18,731 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-04-23 01:19:29,995 [Worker-6: Creating project "blankapp"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.eti.amazu:blankapp:0.0.1-SNAPSHOT @ G:\treinament\JavaTutorialSeverFaces\blankapp\pom.xml.
+2022-04-23 01:19:33,451 [Worker-6: Creating project "blankapp"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blankapp/src/main/java
+2022-04-23 01:19:33,467 [Worker-6: Creating project "blankapp"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blankapp/src/main/resources
+2022-04-23 01:19:33,468 [Worker-6: Creating project "blankapp"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blankapp/src/test/java
+2022-04-23 01:19:33,468 [Worker-6: Creating project "blankapp"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blankapp/src/test/resources
+2022-04-23 01:19:39,723 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-23 01:19:39,798 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 01:19:39,801 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-23 01:19:39,802 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:05:42,149 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.eti.amazu:blankapp:0.0.1-SNAPSHOT @ G:\treinament\JavaTutorialSeverFaces\blankapp\pom.xml.
+2022-04-23 02:05:44,158 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:05:44,172 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:05:44,174 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:05:44,187 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:05:44,188 [Worker-36: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of blankapp
+2022-04-23 02:05:44,205 [Worker-36: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for blankapp
+2022-04-23 02:05:44,210 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:08:09,650 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-04-23 02:08:09,932 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.eti.amazu:blankapp:0.0.1-SNAPSHOT @ G:\treinament\JavaTutorialSeverFaces\blankapp\pom.xml.
+2022-04-23 02:08:10,880 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blankapp/src/main/java
+2022-04-23 02:08:10,880 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blankapp/src/main/resources
+2022-04-23 02:08:10,896 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blankapp/src/test/java
+2022-04-23 02:08:10,897 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blankapp/src/test/resources
+2022-04-23 02:08:12,250 [Worker-41: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for blankapp
+2022-04-23 02:08:12,256 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-04-23 02:08:12,292 [Worker-43: Building Project blankapp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:08:12,293 [Worker-43: Building Project blankapp] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:08:12,295 [Worker-43: Building Project blankapp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:08:12,295 [Worker-43: Building Project blankapp] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:08:12,296 [Worker-43: Building Project blankapp] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of blankapp
+2022-04-23 02:08:12,296 [Worker-43: Building Project blankapp] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for blankapp
+2022-04-23 02:08:12,300 [Worker-43: Building Project blankapp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:09:19,229 [Worker-43: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.eti.amazu:blankapp:0.0.1-SNAPSHOT @ G:\treinament\JavaTutorialSeverFaces\blankapp\pom.xml.
+2022-04-23 02:09:20,187 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:09:20,188 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:09:20,190 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:09:20,191 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:09:20,191 [Worker-43: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of blankapp
+2022-04-23 02:09:20,191 [Worker-43: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for blankapp
+2022-04-23 02:09:20,195 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:09:29,999 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-04-23 02:09:30,224 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.eti.amazu:blankapp:0.0.1-SNAPSHOT @ G:\treinament\JavaTutorialSeverFaces\blankapp\pom.xml.
+2022-04-23 02:09:30,795 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blankapp/src/main/java
+2022-04-23 02:09:30,795 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blankapp/src/main/resources
+2022-04-23 02:09:30,795 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blankapp/src/test/java
+2022-04-23 02:09:30,796 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blankapp/src/test/resources
+2022-04-23 02:09:31,020 [Worker-41: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for blankapp
+2022-04-23 02:09:31,046 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-04-23 02:09:31,187 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:09:31,188 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:09:31,190 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:09:31,190 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:09:31,190 [Worker-41: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of blankapp
+2022-04-23 02:09:31,190 [Worker-41: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for blankapp
+2022-04-23 02:09:31,197 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:09:46,836 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.eti.amazu:blankapp:0.0.1-SNAPSHOT @ G:\treinament\JavaTutorialSeverFaces\blankapp\pom.xml.
+2022-04-23 02:09:47,309 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:09:47,311 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:09:47,313 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:09:47,313 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:09:47,314 [Worker-42: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of blankapp
+2022-04-23 02:09:47,314 [Worker-42: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for blankapp
+2022-04-23 02:09:47,318 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:10:03,510 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-04-23 02:10:03,858 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.eti.amazu:blankapp:0.0.1-SNAPSHOT @ G:\treinament\JavaTutorialSeverFaces\blankapp\pom.xml.
+2022-04-23 02:10:04,395 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blankapp/src/main/java
+2022-04-23 02:10:04,396 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blankapp/src/main/resources
+2022-04-23 02:10:04,396 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blankapp/src/test/java
+2022-04-23 02:10:04,396 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blankapp/src/test/resources
+2022-04-23 02:10:04,603 [Worker-41: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for blankapp
+2022-04-23 02:10:04,610 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-04-23 02:10:04,875 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:10:04,876 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:10:04,877 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:10:04,878 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:10:04,879 [Worker-42: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of blankapp
+2022-04-23 02:10:04,879 [Worker-42: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for blankapp
+2022-04-23 02:10:04,885 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:14:03,221 [Worker-44: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.eti.amazu:blankapp:0.0.1-SNAPSHOT @ G:\treinament\JavaTutorialSeverFaces\blankapp\pom.xml.
+2022-04-23 02:14:04,287 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:14:04,289 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:14:04,290 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:14:04,291 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:14:04,304 [Worker-44: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of blankapp
+2022-04-23 02:14:04,304 [Worker-44: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for blankapp
+2022-04-23 02:14:04,309 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:14:25,484 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.eti.amazu:blankapp:0.0.1-SNAPSHOT @ G:\treinament\JavaTutorialSeverFaces\blankapp\pom.xml.
+2022-04-23 02:14:25,966 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:14:25,967 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:14:25,971 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:14:25,971 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:14:25,972 [Worker-45: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of blankapp
+2022-04-23 02:14:25,973 [Worker-45: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for blankapp
+2022-04-23 02:14:25,977 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:14:36,780 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-04-23 02:14:37,043 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.eti.amazu:blankapp:0.0.1-SNAPSHOT @ G:\treinament\JavaTutorialSeverFaces\blankapp\pom.xml.
+2022-04-23 02:14:37,528 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blankapp/src/main/java
+2022-04-23 02:14:37,528 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blankapp/src/main/resources
+2022-04-23 02:14:37,528 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blankapp/src/test/java
+2022-04-23 02:14:37,529 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blankapp/src/test/resources
+2022-04-23 02:14:37,728 [Worker-45: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for blankapp
+2022-04-23 02:14:37,733 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-04-23 02:14:38,009 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:14:38,012 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:14:38,019 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:14:38,019 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:14:38,020 [Worker-48: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of blankapp
+2022-04-23 02:14:38,020 [Worker-48: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for blankapp
+2022-04-23 02:14:38,024 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:56:38,866 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:56:38,870 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 02:56:38,872 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 02:56:38,872 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:04:47,794 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:04:47,794 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:04:47,795 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:04:47,795 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:05:00,442 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-04-23 03:05:02,223 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.eti.amazu:blankapp:0.0.1-SNAPSHOT @ G:\treinament\JavaTutorialSeverFaces\blankapp\pom.xml.
+2022-04-23 03:05:03,496 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blankapp/src/main/java
+2022-04-23 03:05:03,497 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blankapp/src/main/resources
+2022-04-23 03:05:03,497 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blankapp/src/test/java
+2022-04-23 03:05:03,498 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blankapp/src/test/resources
+2022-04-23 03:05:04,041 [Worker-54: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for blankapp
+2022-04-23 03:05:04,048 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2022-04-23 03:05:04,207 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:05:04,207 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:05:04,210 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:05:04,210 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:05:04,224 [Worker-50: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of blankapp
+2022-04-23 03:05:04,224 [Worker-50: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for blankapp
+2022-04-23 03:05:04,229 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:06:52,673 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:06:52,675 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:06:52,676 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:06:52,676 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:07:40,951 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:07:40,951 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:07:40,952 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:07:40,952 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:16:55,670 [Worker-63: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-04-23 03:16:55,699 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:16:55,699 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:16:55,701 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:16:55,701 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:18:47,459 [Worker-65: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-04-23 03:18:47,463 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:18:47,464 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:18:47,465 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:18:47,465 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:18:59,439 [Worker-65: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-04-23 03:18:59,442 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:18:59,442 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:18:59,443 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:18:59,443 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:22:37,726 [Worker-68: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-04-23 03:22:37,728 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:22:37,729 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:22:37,731 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:22:37,731 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:30:24,135 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.5; built: 2021-06-11T14:18:43.438Z; git: dc21b2d73cafd78a56e8e532cf50863739bd7027; jvm 11.0.6+8-LTS
+2022-04-23 03:30:24,248 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2022-04-23 03:30:24,434 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@10155939{/help,null,AVAILABLE}
+2022-04-23 03:30:24,551 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@282da0e6{HTTP/1.1, (http/1.1)}{127.0.0.1:56160}
+2022-04-23 03:30:24,593 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@74fb3def{STARTING}[10.0.5,sto=0] @9657807ms
+2022-04-23 03:36:41,294 [Worker-73: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-04-23 03:36:41,299 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:36:41,300 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:36:41,301 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:36:41,301 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:49:13,737 [Worker-78: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-04-23 03:49:13,739 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:49:13,739 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:49:13,740 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:49:13,740 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:50:03,265 [Worker-80: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-04-23 03:50:03,268 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:50:03,268 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 03:50:03,269 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2022-04-23 03:50:03,269 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-23 04:09:10,918 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@74fb3def{STOPPING}[10.0.5,sto=0]
+2022-04-23 04:09:10,959 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@282da0e6{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2022-04-23 04:09:11,096 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@10155939{/help,null,STOPPED}
